@@ -40,3 +40,18 @@ A complete roadmap for competitive programming.
 
 
 ## ADVANCE
+
+- [Lowest Common Ancestor, Binary Lifting and HLD]()
+  - [Editorial]()
+- [Graph Theory II]()
+  - [Editorial]()
+- [Game Theory]()
+  - [Editorial]()
+- [Dynamic Programming II]()
+  - [Editorial]()
+- [String Algorithms]()
+  - [Editorial]()
+- [Advanced Maths]()
+  - [Editorial]()
+- [Dynamic Programming III]()
+  - [Editorial]()
