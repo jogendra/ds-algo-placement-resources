@@ -6,8 +6,8 @@ A complete roadmap for competitive programming.
 - [Moving from C to C++](/Basic/moving-from-c-to-cpp.md)
 - [Standard Template Library (STL)](/Basic/stl-cpp.md)
   - [Editorial](/Basic/stl-recursive-and-basic-math-editorials.md)
-- [Basic Math and Recursion]()
-  - [Editorial]()
+- [Basic Math and Recursion](/Basic/Recursion-and-Basic-Maths.md)
+  - [Editorial](/Basic/stl-recursive-and-basic-math-editorials.md)
 - [Binary Search and Basic Math]()
   - [Editorial]()
   
