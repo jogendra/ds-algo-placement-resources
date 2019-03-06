@@ -8,8 +8,8 @@ A complete roadmap for competitive programming.
   - [Editorial](/Basic/stl-recursive-and-basic-math-editorials.md)
 - [Basic Math and Recursion](/Basic/Recursion-and-Basic-Maths.md)
   - [Editorial](/Basic/stl-recursive-and-basic-math-editorials.md)
-- [Binary Search and Basic Math]()
-  - [Editorial]()
+- [Binary Search and Basic Math](/Basic/binary-search-and-basic-maths.md)
+  - [Editorial](/Basic/editorial-binary-search-and-basic-maths.md)
   
   Extra Practice Problems - [Recursion](), [Math and Binary Search]()
   <br>
