@@ -41,7 +41,7 @@ A complete roadmap for competitive programming.
 
 ## ADVANCE
 
-- [Lowest Common Ancestor, Binary Lifting and HLD]()
+- [Lowest Common Ancestor, Binary Lifting and HLD](/Advance/Lowest-Common-Ancestor-Binary-Lifting-and-HLD.md)
   - [Editorial]()
 - [Graph Theory II]()
   - [Editorial]()
