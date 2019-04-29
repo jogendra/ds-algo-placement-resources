@@ -1,0 +1,23 @@
+## Advanced Maths
+### Tutorial
+*   [Combinatorics](https://www.youtube.com/watch?v=1U3loHkX5XE)
+*   [Fast Fourier Transform](http://codeforces.com/blog/entry/43499) 
+*   [Chinese Reminder Theorem](https://www.youtube.com/watch?v=7SVz415AXyw)
+*   [Gauss Elimination](http://e-maxx-eng.appspot.com/linear_algebra/linear-system-gauss.html)
+*   [Diophantine Equation](http://e-maxx-eng.appspot.com/algebra/linear-diophantine-equation.html)
+*   [Inclusion Exclusion Principle](https://apps.topcoder.com/forums/?module=Thread&threadID=685138&start=0)
+*   [Discrete Log](https://math.stackexchange.com/questions/52545/primitive-root-and-discrete-logarithm) 
+### Problems
+*   [Q1 - Easy](http://www.spoj.com/problems/VFMUL/) 
+*   [Q2 - Easy](https://www.codechef.com/problems/COPR16G) 
+*   [Q3 - Easy](http://codeforces.com/problemset/problem/106/C) 
+*   [Q4 - Medium](http://codeforces.com/problemset/problem/803/F)
+*   [Q5 - Medium](http://codeforces.com/problemset/problem/111/D)
+*   [Q6 - Medium](http://codeforces.com/problemset/problem/223/C)
+*   [Q7 - Medium](http://codeforces.com/contest/251/problem/D) 
+*   [Q8 - Medium](https://www.codechef.com/APRIL17/problems/DGTCNT) 
+*   [Q9 - Hard](https://www.hackerrank.com/challenges/parity-party/problem)
+*   [Q10 - Hard](http://codeforces.com/problemset/problem/444/B)
+*   [Q11 - Hard](http://codeforces.com/problemset/problem/827/E)
+*   [Q12 - Hard](https://www.codechef.com/problems/REALSET)
+*   [Q13 - Hard](http://codeforces.com/problemset/problem/553/E)
