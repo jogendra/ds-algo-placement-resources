@@ -7,7 +7,7 @@
 *    [Visual Algo](https://visualgo.net/en/dfsbfs)
 ### [READ][How to tackle problems based on Graph Theory?](https://www.quora.com/How-can-I-be-good-at-Graph-Theory-based-programming-problems-in-Competitive-Programming/answer/Pushkar-Mishra?srid=uW2Yh) 
 ### Often people get confused over when to use BFS. Here are some examples where BFS becomes useful :
-*   [To find the shortest path in an unweighted graph](https://docs.google.com/document/d/1CZXw5xr45na7QuXq6bgnVk9IOFotNoCxEvTEKOuQZ10/edit?usp=sharing) 
+*   [To find the shortest path in an unweighted graph](/Basic/Shortest-Path-in-unweighted-graph-using-BFS.md) 
 *   [To check if the graph is Bipartite or not.](http://www.geeksforgeeks.org/bipartite-graph/) 
 ### Problems
 *   Solve all the problems here:
