@@ -16,11 +16,11 @@ A complete roadmap for competitive programming.
   Extra Practice Problems - [Editorial]()
   <br>
   Practice Contest - [Recursion](), [Math and Binary Search]()
-- [Greedy Algorithm]()
+- [Greedy Algorithm](/Basic/greedy-algorithms.md)
   - [Editorial]()
-- [Segment tree / BIT]()
+- [Segment tree / BIT](/Basic/Segment-Fenwick-Tree.md)
   - [Editorial]()
-- [Dynamic Programming I]()
+- [Dynamic Programming I](/Basic/Dynamic-Programming-I.md)
   - [Editorial]()
   
   Extra Practice Problems - [Dynamic Programming]()
@@ -28,7 +28,7 @@ A complete roadmap for competitive programming.
   Extra Practice Problems - [Editorial]()
   <br>
   Practice Contest - [Dynamic Programming]()
-- [Graph Theory I]()
+- [Graph Theory I](/Basic/Graph-Theory-I.md)
   - [Editorial]()
   
   Extra Practice Problems - [Graph Theory]()
@@ -55,3 +55,9 @@ A complete roadmap for competitive programming.
   - [Editorial]()
 - [Dynamic Programming III](/Advance/Dynamic-Programming-III.md)
   - [Editorial]()
+  
+  ## OTHER USEFUL RESOURCES
+  _to be added_
+  
+  ### Credits
+  The **ADVANCE** and **BASIC** resources is created by **[Club of Programmers, Indian Institute of Technology (BHU) Varanasi](https://github.com/COPS-IITBHU)**.
